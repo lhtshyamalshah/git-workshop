@@ -1,0 +1,17 @@
+{
+    "development": {
+      "Chats": true,
+      "Avatar": true,
+      "Albums": true
+    },
+    "staging": {
+      "Chats": true,
+      "Avatar": true,
+      "Albums": false
+    },
+    "production": {
+      "Chats": true,
+      "Avatar": false,
+      "Albums": true
+    }
+  }
