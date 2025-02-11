@@ -1,0 +1,3 @@
+[submodule "shared/git-workshop-submodule"]
+	path = shared/git-workshop-submodule
+	url = https://github.com/lhtshyamalshah/git-workshop-submodule
